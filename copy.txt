@@ -1,0 +1,18 @@
+If you are familiar with GitHub, you might also be familiar 
+with GitHub.dev, and you might be wondering what the difference 
+is between GitHub.dev and GitHub Codespaces. 
+
+For one thing, GitHub.dev is a lightweight, browser-based code 
+editor, while GitHub Codespaces provides a full development environment
+that allows you to run and test your code. In other words, because 
+GitHub.dev is limited in scope, it is really only designed for code
+edits. 
+
+GitHub Codespaces also integrates with IDEs like VS Code, and the
+changes to the settings in the cloud and local environments can 
+be synced through the Settings Sync feature, as we have seen. 
+Developers will also notice that GitHub.dev environments are not
+persistent, meaning that your work isn't saved between sessions 
+unless you manually commit changes to the repository. On the other
+hand, with GitHub Codespaces, the changes are saved even if you 
+close or stop your codespace. 
