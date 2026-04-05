@@ -1,4 +1,4 @@
-myfile=open(r"poem.txt","r")
+myfile=open(r"sample.txt","r")
 str=""
 while str:
     str=myfile.readline()
